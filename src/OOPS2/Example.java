@@ -1,4 +1,4 @@
-package OOPS_Lec2;
+package OOPS2;
 
 public class Example {
 }

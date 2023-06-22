@@ -1,6 +1,4 @@
-package OOPS_Lec2;
-
-import javax.print.Doc;
+package OOPS2;
 
 public class Main {
     public static void main(String[] args) {

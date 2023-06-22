@@ -1,7 +1,4 @@
-package OOPS_Lec1;
-
-import java.util.ArrayList;
-import java.util.Scanner;
+package OOPS1;
 
 public class Main {
 
